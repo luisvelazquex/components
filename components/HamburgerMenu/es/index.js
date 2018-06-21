@@ -22,7 +22,7 @@ var _default = function (_Component) {
       React.createElement(
         'h2',
         null,
-        'Welcome to Sidebar'
+        'Welcome to React components'
       )
     );
   };
