@@ -1,3 +1,3 @@
-import SideBar from "./components/sidepanel/src/App";
+import SideBar from "./components/SideBar/lib/";
 
 export default SideBar;
